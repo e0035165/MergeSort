@@ -1,0 +1,7 @@
+﻿  AngryChildrens.cpp
+C:\Users\ACER\source\repos\AngryChildrens\AngryChildrens\AngryChildrens.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\source\repos\AngryChildrens\AngryChildrens\AngryChildrens.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\source\repos\AngryChildrens\AngryChildrens\AngryChildrens.cpp(115,23): warning C4018: '<=': signed/unsigned mismatch
+  Example.cpp
+  Generating Code...
+  AngryChildrens.vcxproj -> C:\Users\ACER\source\repos\AngryChildrens\Debug\AngryChildrens.exe

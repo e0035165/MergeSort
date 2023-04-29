@@ -1,0 +1,3 @@
+﻿  AngryChildrens.cpp
+C:\Users\ACER\source\repos\AngryChildrens\AngryChildrens\AngryChildrens.cpp(100,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AngryChildrens.vcxproj -> C:\Users\ACER\source\repos\AngryChildrens\x64\Debug\AngryChildrens.exe
